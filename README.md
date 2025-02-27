@@ -81,20 +81,6 @@ O notebook gera os seguintes arquivos:
 - `summary.txt`: Estatísticas descritivas e intervalos de confiança
 - `insights_report.md`: Relatório detalhado com análise e recomendações
 
-## Como Executar
-
-```bash
-# Clonar o repositório
-git clone https://github.com/seu-usuario/anxiety-intervention-analysis.git
-cd anxiety-intervention-analysis
-
-# Instalar dependências
-pip install -r requirements.txt
-
-# Executar o notebook
-jupyter notebook io.ipynb
-```
-
 ## Considerações de Implementação
 
 - Tratamento robusto de erros em todas as funções
