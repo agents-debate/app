@@ -1,5 +1,3 @@
-# Análise de Intervenção em Ansiedade com Visualizações Estáticas e Insights
-
 Este repositório contém um notebook Python para análise detalhada de um conjunto de dados sobre intervenção em ansiedade, utilizando visualizações estáticas e técnicas de machine learning interpretável.
 
 ## Visão Geral
